@@ -14,5 +14,5 @@ printf("Hello, World! 🌍");
 
 Let's code, innovate, and make an impact in the tech world together! 🚀
 
-📧 Email: guptasaksham2510@gmail.com
-🌐 LinkedIn: https://www.linkedin.com/in/saksham-gupta-894400246/
+📧 ![Contact Me](guptasaksham2510@gmail.com)
+🌐 Let's Connect on ![LinkedIn](https://www.linkedin.com/in/saksham-gupta-894400246/)
