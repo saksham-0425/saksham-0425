@@ -1,16 +1,14 @@
-### Hi there 👋
+printf("Hello, World! 🌍");
 
-<!--
-**saksham-0425/saksham-0425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Saksham!
 
-Here are some ideas to get you started:
+🚀 Open-source enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Passionate about creating efficient solutions to complex problems.
+
+💻 Building web pages using HTML and CSS.
+
+📫 Let's connect and create something amazing together!
+
+📧 Email: [guptasaksham2510@gmail.com]
+🌐 LinkedIn: [https://www.linkedin.com/in/saksham-gupta-894400246/]
