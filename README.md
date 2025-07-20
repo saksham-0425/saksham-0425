@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/saksham-0425/saksham-0425/blob/output/github-contribution-grid-snake.svg)
+
 printf("Hello, World! 🌍");
 
 👋 Hello, I'm Saksham,a passionate and versatile programmer on a perpetual journey through the ever-evolving world of technology.
