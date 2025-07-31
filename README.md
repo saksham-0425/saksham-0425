@@ -1,23 +1,22 @@
 ![Snake animation](https://github.com/saksham-0425/saksham-0425/blob/output/github-contribution-grid-snake.svg)
 
-printf("Hello, World! 🌍");
+```cpp
+printf("Welcome to my GitHub! 👨‍💻");
+```
 
-👋 Hello, I'm Saksham,a passionate and versatile programmer on a perpetual journey through the ever-evolving world of technology.
+# Hey there, I'm Saksham Gupta!
+```bash
+🎓 Final-year B.Tech CSE student | 💼 Future Software Engineer
+🌐 Full Stack Developer | 🤖 ML/DL Practitioner
+```
 
-🚀 Open-source enthusiast.
-
-👨‍💻 Approaching the algorithmic challenges with a positive mindset using C/C++ and Python.
-
-🌟 Passionate about creating efficient solutions to complex problems.
-
-🧠 Lifelong learner with a thirst for knowledge.
-
-💻 When I'm not diving into the depths of code, I'm building captivating web experiences using the dynamic duo of HTML and CSS.
+- I build production-grade full-stack applications using MERN.
+- Skilled in solving Data Structures & Algorithms using C++ and Python.
+- Experienced with REST APIs, Firebase, MongoDB, AWS (EC2, S3, Beanstalk), and CI/CD pipelines.
+- Loves clean code, reusable components, and modular design.
+- Always shipping, iterating, and learning something new.
 
 ## 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -28,15 +27,15 @@ printf("Hello, World! 🌍");
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/main/badges/python/python.svg" />
-  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/main/badges/javascript/javascript.svg" />
-  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/main/badges/react/react.svg" />
-  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/main/badges/firebase/firebase.svg" />
-  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/main/badges/git/git.svg" />
-</p>
 
 
 
